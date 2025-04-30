@@ -8,10 +8,15 @@ via Tiktok: https://www.tiktok.com/@m45h4run
 TUTORIAL INSTALASI
 ==========
 1.= Buka file config -> config.php
+
 ..= Sesuaikan keperluan yang ada (database dan base_url)
+
 2.= Buat database mysql
+
 ..= sesuaikan dengan konfigurasi database dengan poin 1
+
 3.= Buat tabel (user) karna ada bawaan CRUD di rancangan ini.
+
 
 ==========
 
